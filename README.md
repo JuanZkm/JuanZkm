@@ -12,9 +12,9 @@
 </div>
  
  <br>
- 
+ <h1>
   ### Me segue nas redes abaixo! Valeeeeu ><
- 
+ <h1>
 <div> 
   
   <a href="https://instagram.com/juan_zkm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
